@@ -41,6 +41,7 @@ Quick Reference
 [R 语言](./docs/r.md)<!--rehype:style=background: rgb(39 108 192);&class=contributing-->  
 [Elixir](./docs/elixir.md)<!--rehype:style=background: rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->   
 [Tauri](./docs/tauri.md)<!--rehype:style=background: rgb(103 214 237);&class=contributing-->
+[Docker Compose](./docs/docker-compose.md)<!--rehype:style=background: rgb(72 143 223);&class=contributing tag&data-lang=Docker-->  
 <!--rehype:class=home-card-->
 
 ## 编程
@@ -51,6 +52,7 @@ Quick Reference
 [C++](./docs/cpp.md)<!--rehype:style=background: rgb(6 147 13);&class=contributing-->  
 [Dart](./docs/dart.md)<!--rehype:style=background: rgb(64 196 255);-->  
 [Docker](./docs/docker.md)<!--rehype:style=background: rgb(72 143 223);-->  
+[Docker-Compose](./docs/docker-compose.md)<!--rehype:style=background: rgb(72 143 223);&class=contributing tag&data-lang=Docker-->  
 [Dockerfile](./docs/dockerfile.md)<!--rehype:style=background: rgb(0 72 153);&class=tag&data-lang=Docker-->  
 [Django](./docs/django.md)<!--rehype:style=background: rgb(12 75 51);&class=contributing tag&data-lang=Python-->  
 [Elixir](./docs/elixir.md)<!--rehype:style=background: rgb(124 26 156);&class=contributing tag&data-lang=Elixir-->   
@@ -277,6 +279,7 @@ Quick Reference
 <a href="https://github.com/Alex20180512" title="Alex"><img src="https://avatars.githubusercontent.com/u/115539090?v=4" width="42;" alt="Alex"/></a>
 <a href="https://github.com/undefined-hestudio" title="undefined"><img src="https://avatars.githubusercontent.com/u/119711513?v=4" width="42;" alt="undefined"/></a>
 <a href="https://github.com/eryajf" title="二丫讲梵"><img src="https://avatars.githubusercontent.com/u/33259379?v=4" width="42;" alt="二丫讲梵"/></a>
+<a href="https://github.com/zhangymPerson" title="zhangym"><img src="https://avatars.githubusercontent.com/u/40376181?v=4" width="42;" alt="zhangym"/></a>
 <a href="https://github.com/k23223" title="k23223"><img src="https://avatars.githubusercontent.com/u/57606136?v=4" width="42;" alt="k23223"/></a>
 <a href="https://github.com/expoli" title="expoli"><img src="https://avatars.githubusercontent.com/u/31023767?v=4" width="42;" alt="expoli"/></a>
 <a href="https://github.com/mailbaoer" title="baoer"><img src="https://avatars.githubusercontent.com/u/5282978?v=4" width="42;" alt="baoer"/></a>
@@ -286,7 +289,6 @@ Quick Reference
 <a href="https://github.com/qyl27" title="秋 雨落"><img src="https://avatars.githubusercontent.com/u/53731501?v=4" width="42;" alt="秋 雨落"/></a>
 <a href="https://github.com/MackDing" title="Blossom"><img src="https://avatars.githubusercontent.com/u/19878893?v=4" width="42;" alt="Blossom"/></a>
 <a href="https://github.com/1250422131" title="萌新杰少"><img src="https://avatars.githubusercontent.com/u/52126790?v=4" width="42;" alt="萌新杰少"/></a>
-<a href="https://github.com/zhangymPerson" title="zhangym"><img src="https://avatars.githubusercontent.com/u/40376181?v=4" width="42;" alt="zhangym"/></a>
 <a href="https://github.com/chaos-cn" title="chaos"><img src="https://avatars.githubusercontent.com/u/71205599?v=4" width="42;" alt="chaos"/></a>
 <a href="https://github.com/xia0ne" title="YuRuiH"><img src="https://avatars.githubusercontent.com/u/32591223?v=4" width="42;" alt="YuRuiH"/></a>
 <a href="https://github.com/Willxup" title="Willxup"><img src="https://avatars.githubusercontent.com/u/51990395?v=4" width="42;" alt="Willxup"/></a>
@@ -321,7 +323,7 @@ Quick Reference
 <a href="https://github.com/jqzhao7" title="jqzhao"><img src="https://avatars.githubusercontent.com/u/54694535?v=4" width="42;" alt="jqzhao"/></a>
 <a href="https://github.com/jussker" title="jussker"><img src="https://avatars.githubusercontent.com/u/33953356?v=4" width="42;" alt="jussker"/></a>
 <a href="https://github.com/k983551019" title="k983551019"><img src="https://avatars.githubusercontent.com/u/48147837?v=4" width="42;" alt="k983551019"/></a>
-<a href="https://github.com/Zeng-qh" title="都一样"><img src="https://avatars.githubusercontent.com/u/40046415?v=4" width="42;" alt="都一样"/></a>
+<a href="https://github.com/kdxcxs" title="kdxcxs"><img src="https://avatars.githubusercontent.com/u/18746192?v=4" width="42;" alt="kdxcxs"/></a>
 <a href="https://github.com/nodjoy" title="gowshwah"><img src="https://avatars.githubusercontent.com/u/145280043?v=4" width="42;" alt="gowshwah"/></a>
 <a href="https://github.com/godotc" title="godot42"><img src="https://avatars.githubusercontent.com/u/79260851?v=4" width="42;" alt="godot42"/></a>
 <a href="https://github.com/gi-b716" title="Gavin"><img src="https://avatars.githubusercontent.com/u/78394473?v=4" width="42;" alt="Gavin"/></a>
@@ -334,11 +336,13 @@ Quick Reference
 <a href="https://github.com/zlfyuan" title="bgbgPang"><img src="https://avatars.githubusercontent.com/u/19658018?v=4" width="42;" alt="bgbgPang"/></a>
 <a href="https://github.com/Lmmmmmm-bb" title="_lmmmmmm"><img src="https://avatars.githubusercontent.com/u/54026110?v=4" width="42;" alt="_lmmmmmm"/></a>
 <a href="https://github.com/y52y" title="Zyj"><img src="https://avatars.githubusercontent.com/u/51304324?v=4" width="42;" alt="Zyj"/></a>
-<a href="https://github.com/Leaderzhangyi" title="ZinkCas"><img src="https://avatars.githubusercontent.com/u/46915666?v=4" width="42;" alt="ZinkCas"/></a>
+<a href="https://github.com/isecret" title="Mao Wang"><img src="https://avatars.githubusercontent.com/u/15724152?v=4" width="42;" alt="Mao Wang"/></a>
+<a href="https://github.com/Zeng-qh" title="都一样"><img src="https://avatars.githubusercontent.com/u/40046415?v=4" width="42;" alt="都一样"/></a>
 <a href="https://github.com/binscor" title="Zheng Nai Bin"><img src="https://avatars.githubusercontent.com/u/37325821?v=4" width="42;" alt="Zheng Nai Bin"/></a>
 <a href="https://github.com/qwxingzhe" title="行者"><img src="https://avatars.githubusercontent.com/u/7071651?v=4" width="42;" alt="行者"/></a>
 <a href="https://github.com/HanaChan233" title="花开花落"><img src="https://avatars.githubusercontent.com/u/75212820?v=4" width="42;" alt="花开花落"/></a>
 <a href="https://github.com/lisheng741" title="芦荟柚子茶"><img src="https://avatars.githubusercontent.com/u/53617305?v=4" width="42;" alt="芦荟柚子茶"/></a>
+<a href="https://github.com/LebranceBW" title="滴滴答滴滴的雨"><img src="https://avatars.githubusercontent.com/u/19501514?v=4" width="42;" alt="滴滴答滴滴的雨"/></a>
 <a href="https://github.com/ZIDOUZI" title="ZIDOUZI"><img src="https://avatars.githubusercontent.com/u/53157536?v=4" width="42;" alt="ZIDOUZI"/></a>
 <a href="https://github.com/LuckyJie12" title="夜未央"><img src="https://avatars.githubusercontent.com/u/102901105?v=4" width="42;" alt="夜未央"/></a>
 <a href="https://github.com/lvzhenbo" title="吕振波"><img src="https://avatars.githubusercontent.com/u/32427677?v=4" width="42;" alt="吕振波"/></a>
@@ -359,12 +363,11 @@ Quick Reference
 <a href="https://github.com/liliangrong777" title="liliangrong777"><img src="https://avatars.githubusercontent.com/u/58727146?v=4" width="42;" alt="liliangrong777"/></a>
 <a href="https://github.com/larry-xue" title="larry"><img src="https://avatars.githubusercontent.com/u/48818060?v=4" width="42;" alt="larry"/></a>
 <a href="https://github.com/kubeme" title="kubernetes for me"><img src="https://avatars.githubusercontent.com/u/16346220?v=4" width="42;" alt="kubernetes for me"/></a>
-<a href="https://github.com/kdxcxs" title="kdxcxs"><img src="https://avatars.githubusercontent.com/u/18746192?v=4" width="42;" alt="kdxcxs"/></a>
-<a href="https://github.com/isecret" title="Mao Wang"><img src="https://avatars.githubusercontent.com/u/15724152?v=4" width="42;" alt="Mao Wang"/></a>
 <a href="https://github.com/likeshop-github" title="likeshop技术社区"><img src="https://avatars.githubusercontent.com/u/77180968?v=4" width="42;" alt="likeshop技术社区"/></a>
 <a href="https://github.com/Lihuagreek" title="Lihuagreek"><img src="https://avatars.githubusercontent.com/u/51040740?v=4" width="42;" alt="Lihuagreek"/></a>
 <a href="https://github.com/LightQuanta" title="Light_Quanta"><img src="https://avatars.githubusercontent.com/u/18213217?v=4" width="42;" alt="Light_Quanta"/></a>
 <a href="https://github.com/JetSquirrel" title="JetSquirrel"><img src="https://avatars.githubusercontent.com/u/20291255?v=4" width="42;" alt="JetSquirrel"/></a>
+<a href="https://github.com/jeremyjone" title="Jeremy Jone"><img src="https://avatars.githubusercontent.com/u/37676231?v=4" width="42;" alt="Jeremy Jone"/></a>
 <a href="https://github.com/JavaZeroo" title="JavaZero"><img src="https://avatars.githubusercontent.com/u/71128095?v=4" width="42;" alt="JavaZero"/></a>
 <a href="https://github.com/Ding-Kyoma" title="HooinKyoma"><img src="https://avatars.githubusercontent.com/u/44542198?v=4" width="42;" alt="HooinKyoma"/></a>
 <a href="https://github.com/gongyeheyu" title="GONGYE Heyu"><img src="https://avatars.githubusercontent.com/u/85177605?v=4" width="42;" alt="GONGYE Heyu"/></a>
@@ -385,6 +388,7 @@ Quick Reference
 <a href="https://github.com/gitchenze" title="Aze"><img src="https://avatars.githubusercontent.com/u/13357869?v=4" width="42;" alt="Aze"/></a>
 <a href="https://github.com/dousha0w0" title="dousha0w0"><img src="https://avatars.githubusercontent.com/u/52566311?v=4" width="42;" alt="dousha0w0"/></a>
 <a href="https://github.com/13812700839" title="花殇"><img src="https://avatars.githubusercontent.com/u/58072506?v=4" width="42;" alt="花殇"/></a>
+<a href="https://github.com/Leaderzhangyi" title="ZinkCas"><img src="https://avatars.githubusercontent.com/u/46915666?v=4" width="42;" alt="ZinkCas"/></a>
 <a href="https://github.com/zhu0629" title="zhucong"><img src="https://avatars.githubusercontent.com/u/13188450?v=4" width="42;" alt="zhucong"/></a>
 <a href="https://github.com/yikuaibro" title="yikuaibro"><img src="https://avatars.githubusercontent.com/u/44493045?v=4" width="42;" alt="yikuaibro"/></a>
 <a href="https://github.com/dfshizhiqiang" title="Zech"><img src="https://avatars.githubusercontent.com/u/7030019?v=4" width="42;" alt="Zech"/></a>
@@ -396,7 +400,7 @@ Quick Reference
 <a href="https://github.com/YLee9527" title="Terry Young"><img src="https://avatars.githubusercontent.com/u/18697332?v=4" width="42;" alt="Terry Young"/></a>
 <a href="https://github.com/TRDSCSH" title="TRDSCSH"><img src="https://avatars.githubusercontent.com/u/125717891?v=4" width="42;" alt="TRDSCSH"/></a>
 <a href="https://github.com/Xiwin" title="Xiwin"><img src="https://avatars.githubusercontent.com/u/107191230?v=4" width="42;" alt="Xiwin"/></a>
-<a href="https://github.com/DataEraserC" title="Sacabambaspis"><img src="https://avatars.githubusercontent.com/u/102341238?v=4" width="42;" alt="Sacabambaspis"/></a>
+<a href="https://github.com/dataeraserc" title="Sacabambaspis"><img src="https://avatars.githubusercontent.com/u/102341238?v=4" width="42;" alt="Sacabambaspis"/></a>
 <a href="https://github.com/qinxiongzhou" title="Ryan Zhou"><img src="https://avatars.githubusercontent.com/u/33239096?v=4" width="42;" alt="Ryan Zhou"/></a>
 <a href="https://github.com/RivailleF" title="RivailleF"><img src="https://avatars.githubusercontent.com/u/93083015?v=4" width="42;" alt="RivailleF"/></a>
 <a href="https://github.com/QDelta" title="QDelta"><img src="https://avatars.githubusercontent.com/u/60222316?v=4" width="42;" alt="QDelta"/></a>
@@ -509,6 +513,8 @@ Quick Reference
 [wangchunfei.com](https://ref.wangchunfei.com/)<!--rehype:target=_blank-->
 [object.cool](https://r.object.cool)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
 [luckyits.com](https://ref.luckyits.com/)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
+[jeremyjone.com](https://ref.jeremyjone.com/)<!--rehype:target=_blank&class=contributing&data-info=👆每天自动同步-->
+[gistudy.net](https://reference.gistudy.net/)<!--rehype:target=_blank-->
 <!--rehype:class=home-card home-links-->
 
 如果你有资源，可以很方便[部署 web 版](https://github.com/jaywcjlove/reference/issues/102#issue-1451649637)，这非常简单，只需要克隆 [gh-pages](https://github.com/jaywcjlove/reference/tree/gh-pages) 分支代码到你的静态服务就可以了，还可以使用 [docker](https://hub.docker.com/r/wcjiang/reference) 快捷部署 web 版。
