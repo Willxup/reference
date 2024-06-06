@@ -160,6 +160,7 @@ Quick Reference
 [FFmpeg](./docs/ffmpeg.md)<!--rehype:style=background: rgb(0 193 9);&class=contributing-->  
 [Gdb](./docs/gdb.md)<!--rehype:style=background: rgb(215 89 62);-->  
 [Git](./docs/git.md)<!--rehype:style=background: rgb(215 89 62);&class=tag&data-lang=版本控制-->  
+[Glances](./docs/glances.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Grep](./docs/grep.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [Htop](./docs/htop.md)<!--rehype:style=background: rgb(16 185 129);-->  
 [iptables](./docs/iptables.md)<!--rehype:style=background: rgb(32 74 135);-->  
@@ -229,6 +230,7 @@ Quick Reference
 [PhpStorm](./docs/phpstorm.md)<!--rehype:style=\-\-bg\-opacity: 0.75;background-image: linear-gradient(to left, rgba(255 106 172 / var(\-\-bg\-opacity)), rgba(183 173 255 / var(\-\-bg\-opacity)));-->  
 [Sketch](./docs/sketch.md)<!--rehype:style=background: rgb(223 148 0);&class=tag&data-lang=macOS-->  
 [Sublime Text](./docs/sublime-text.md)<!--rehype:style=background: rgb(223 148 0);-->  
+[Vimium](./docs/vimium.md)<!--rehype:style=background: rgb(49 168 255);&class=contributing&class=tag&data-lang=浏览器插件-->
 [VSCode](./docs/vscode.md)<!--rehype:style=background: rgb(91 163 230);-->  
 [Twitter](./docs/twitter.md)<!--rehype:style=background: rgb(91 163 230);-->  
 [WebStorm](./docs/webstorm.md)<!--rehype:style=background: rgb(32 148 220);-->  
@@ -306,6 +308,7 @@ Quick Reference
 <a href="https://github.com/ljq" title="Jack Liu"><img src="https://avatars.githubusercontent.com/u/7278286?v=4" width="42;" alt="Jack Liu"/></a>
 <a href="https://github.com/jasnzhuang" title="Jason Zhuang"><img src="https://avatars.githubusercontent.com/u/16612921?v=4" width="42;" alt="Jason Zhuang"/></a>
 <a href="https://github.com/Jovins" title="Jovins"><img src="https://avatars.githubusercontent.com/u/17738992?v=4" width="42;" alt="Jovins"/></a>
+<a href="https://github.com/long-910" title="Small Long"><img src="https://avatars.githubusercontent.com/u/7323488?v=4" width="42;" alt="Small Long"/></a>
 <a href="https://github.com/SuperDiscovery" title="SuperDiscovery"><img src="https://avatars.githubusercontent.com/u/49646863?v=4" width="42;" alt="SuperDiscovery"/></a>
 <a href="https://github.com/XYZscratcher" title="XYZ"><img src="https://avatars.githubusercontent.com/u/108533817?v=4" width="42;" alt="XYZ"/></a>
 <a href="https://github.com/findnr" title="findnr"><img src="https://avatars.githubusercontent.com/u/3909023?v=4" width="42;" alt="findnr"/></a>
